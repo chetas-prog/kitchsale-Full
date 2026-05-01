@@ -4,7 +4,7 @@
   "thankyouLogo": "/img/flipkart-logo.webp",
   "facebookPixelId": "1368423595306270",
   "cashfreePayment": false,
-  "phonepeMode": 2,
+  "phonepeMode": 1,
   "phonepeMode_comment": "1 = native, 2 = intent",
   "upiOptions": [
     {
