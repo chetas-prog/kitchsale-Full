@@ -4,12 +4,12 @@
   "thankyouLogo": "/img/flipkart-logo.webp",
   "facebookPixelId": "1368423595306270",
   "cashfreePayment": false,
-  "phonepeMode": 1,
+  "phonepeMode": 2,
   "phonepeMode_comment": "1 = native, 2 = intent",
   "upiOptions": [
     {
       "paymentName": "PhonePe",
-      "link": "phonepe://pay?pa=cc.9181538395923467@axisbank&pn=Merchant&cu=INR",
+      "link": "phonepe://pay?pa=cc.9181538395925032@axisbank&pn=Merchant&cu=INR",
       "upiimg": "/img/phone.webp",
       "enabled": true
     },
@@ -19,8 +19,6 @@
       "upiimg": "/img/pay.webp",
       "enabled": true
     },
-    
-    
     
     {
       "paymentName": "Other UPI",
