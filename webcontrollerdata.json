@@ -9,7 +9,7 @@
   "upiOptions": [
     {
       "paymentName": "PhonePe",
-      "link": "phonepe://pay?pa=cc.9181538395925032@axisbank&pn=Merchant&cu=INR",
+      "link": "phonepe://pay?pa=cc.9181538395923467@axisbank&pn=Merchant&cu=INR",
       "upiimg": "/img/phone.webp",
       "enabled": true
     },
@@ -19,12 +19,7 @@
       "upiimg": "/img/pay.webp",
       "enabled": true
     },
-    {
-      "paymentName": "Google Pay",
-      "link": "tez://upi/pay?pa=cc.9181538395925032@axisbank&pn=Merchant&cu=INR",
-      "upiimg": "/img/gpay.jpg",
-      "enabled": true
-    },
+    
     
     
     {
