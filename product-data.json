@@ -1,85 +1,80 @@
 [
- {
-    "id": "41",
-    "name": "Prestige IRIS ECO 1200 W Induction Cooktop with automatic voltage regulator |Indian Menu option|Power Saver|Timer with User Pre-Set| Black       ",
-    "mainimg": "https://m.media-amazon.com/images/I/61Vu80YcolL._SX679_.jpg",
-    "dis": "93%",
-    "total": "₹2,999",
-    "disprice": "₹419",
+{
+    "id": "19",
+    "name": "Prestige Marvel Plus 3 Burner Glass Top, GTM 03, Black, Manual Ignition",
+    "mainimg": "https://m.media-amazon.com/images/I/61P68DGuI0L._SX679_.jpg",
+    "dis": "98%",
+    "total": "₹5,999",
+    "disprice": "₹399",
     "slide": [
-      "https://m.media-amazon.com/images/I/61Vu80YcolL._SX679_.jpg",
-      "https://m.media-amazon.com/images/I/81uk2K736TL._SX679_.jpg",
-      "https://m.media-amazon.com/images/I/81J+A2goM+L._SX679_.jpg",
-      "https://m.media-amazon.com/images/I/81l60lHvBYL._SX679_.jpg",
-      "https://m.media-amazon.com/images/I/81OhlSqgLjL._SX679_.jpg",
-      "https://m.media-amazon.com/images/I/81unm0d-vXL._SL1500_.jpg"
+      "https://m.media-amazon.com/images/I/61P68DGuI0L._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/71hF7N3zE4L._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/61tEZsWFJZL._SX679_.jpg"
     ],
-    "trending": true,
+    "trending": false,
     "reviews": [
       {
         "rating": 5,
-        "title": "Excellent Pressure Handi",
-        "text": "Heats evenly and cooks food perfectly. Very happy with this purchase.",
-        "buyerName": "Aditya Sharma",
+        "title": "Excellent stove for daily use!",
+        "text": "Heats up quickly and the burners are powerful. The glass top gives it a premium look.",
+        "buyerName": "Sneha Verma",
         "verified": true,
-        "location": "Bangalore",
-        "daysAgo": "1 day ago",
+        "location": "Mumbai",
+        "daysAgo": "2 days ago",
         "images": [
-          "https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg"
+          "https://m.media-amazon.com/images/I/31flJng2DNL._SX300_SY300_QL70_FMwebp_.jpg"
         ]
       },
       {
-        "rating": 4,
-        "title": "Highly Recommended",
-        "text": "Strong and durable. Very convenient for daily cooking.",
-        "buyerName": "Mihir Kapoor",
+        "rating": 5,
+        "title": "Great value for money",
+        "text": "Very convenient to use. The flame is even and knobs work smoothly. Totally worth it!",
+        "buyerName": "Rohit Mehta",
         "verified": true,
         "location": "Chennai",
-        "daysAgo": "2 days ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg"
-        ]
-      },
-      {
-        "rating": 5,
-        "title": "Very Efficient",
-        "text": "cooking perfectly. Saves time and energy.",
-        "buyerName": "Riddhi Deshmukh",
-        "verified": true,
-        "location": "Pune",
         "daysAgo": "1 day ago",
         "images": [
-          "https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg"
-        ]
-      },
-      {
-        "rating": 5,
-        "title": "Sturdy & Reliable",
-        "text": "High-quality build and easy to clean. Great addition to my kitchen.",
-        "buyerName": "Ananya Singh",
-        "verified": true,
-        "location": "Amritsar",
-        "daysAgo": "2 days ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg"
+          "https://m.media-amazon.com/images/I/31flJng2DNL._SX300_SY300_QL70_FMwebp_.jpg"
         ]
       },
       {
         "rating": 4,
-        "title": "Best Buy",
-        "text": "Affordable and efficient. Works exactly as described.",
-        "buyerName": "Subham Rathi",
+        "title": "Nice design and easy to clean",
+        "text": "Looks elegant and the glass top is simple to maintain. The burners are very efficient.",
+        "buyerName": "Anjali Patel",
         "verified": true,
-        "location": "Jamnagar",
+        "location": "Ahmedabad",
+        "daysAgo": "2 days ago",
+        "images": [
+          "https://m.media-amazon.com/images/I/31flJng2DNL._SX300_SY300_QL70_FMwebp_.jpg"
+        ]
+      },
+      {
+        "rating": 5,
+        "title": "Loved the quality!",
+        "text": "Sturdy build and stylish finish. Cooking is faster compared to my old stove.",
+        "buyerName": "Pooja Nair",
+        "verified": true,
+        "location": "Kochi",
         "daysAgo": "1 day ago",
         "images": [
-          "https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg"
+          "https://m.media-amazon.com/images/I/31flJng2DNL._SX300_SY300_QL70_FMwebp_.jpg"
+        ]
+      },
+      {
+        "rating": 5,
+        "title": "Highly recommended!",
+        "text": "Prestige always maintains its standards. Perfect for small to medium families.",
+        "buyerName": "Karan Joshi",
+        "verified": true,
+        "location": "Jaipur",
+        "daysAgo": "2 days ago",
+        "images": [
+          "https://m.media-amazon.com/images/I/31flJng2DNL._SX300_SY300_QL70_FMwebp_.jpg"
         ]
       }
     ]
   },
-  
- 
  
  {
     "id": "1",
@@ -158,82 +153,7 @@
       }
     ]
   },
-  {
-    "id": "19",
-    "name": "Prestige Marvel Plus 3 Burner Glass Top, GTM 03, Black, Manual Ignition",
-    "mainimg": "https://m.media-amazon.com/images/I/61P68DGuI0L._SX679_.jpg",
-    "dis": "98%",
-    "total": "₹5,999",
-    "disprice": "₹399",
-    "slide": [
-      "https://m.media-amazon.com/images/I/61P68DGuI0L._SX679_.jpg",
-      "https://m.media-amazon.com/images/I/71hF7N3zE4L._SX679_.jpg",
-      "https://m.media-amazon.com/images/I/61tEZsWFJZL._SX679_.jpg"
-    ],
-    "trending": false,
-    "reviews": [
-      {
-        "rating": 5,
-        "title": "Excellent stove for daily use!",
-        "text": "Heats up quickly and the burners are powerful. The glass top gives it a premium look.",
-        "buyerName": "Sneha Verma",
-        "verified": true,
-        "location": "Mumbai",
-        "daysAgo": "2 days ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/31flJng2DNL._SX300_SY300_QL70_FMwebp_.jpg"
-        ]
-      },
-      {
-        "rating": 5,
-        "title": "Great value for money",
-        "text": "Very convenient to use. The flame is even and knobs work smoothly. Totally worth it!",
-        "buyerName": "Rohit Mehta",
-        "verified": true,
-        "location": "Chennai",
-        "daysAgo": "1 day ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/31flJng2DNL._SX300_SY300_QL70_FMwebp_.jpg"
-        ]
-      },
-      {
-        "rating": 4,
-        "title": "Nice design and easy to clean",
-        "text": "Looks elegant and the glass top is simple to maintain. The burners are very efficient.",
-        "buyerName": "Anjali Patel",
-        "verified": true,
-        "location": "Ahmedabad",
-        "daysAgo": "2 days ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/31flJng2DNL._SX300_SY300_QL70_FMwebp_.jpg"
-        ]
-      },
-      {
-        "rating": 5,
-        "title": "Loved the quality!",
-        "text": "Sturdy build and stylish finish. Cooking is faster compared to my old stove.",
-        "buyerName": "Pooja Nair",
-        "verified": true,
-        "location": "Kochi",
-        "daysAgo": "1 day ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/31flJng2DNL._SX300_SY300_QL70_FMwebp_.jpg"
-        ]
-      },
-      {
-        "rating": 5,
-        "title": "Highly recommended!",
-        "text": "Prestige always maintains its standards. Perfect for small to medium families.",
-        "buyerName": "Karan Joshi",
-        "verified": true,
-        "location": "Jaipur",
-        "daysAgo": "2 days ago",
-        "images": [
-          "https://m.media-amazon.com/images/I/31flJng2DNL._SX300_SY300_QL70_FMwebp_.jpg"
-        ]
-      }
-    ]
-  },
+  
   {
     "id": "13",
     "name": "Pigeon by Stovekraft Hard Anodised Aluminium Pressure Cooker Combo - 2 L, 3 L and 5 L Induction Base Outer Lid Cooker (14414, Black)",
@@ -467,7 +387,85 @@
       }
     ]
   },
- 
+ {
+    "id": "41",
+    "name": "Prestige IRIS ECO 1200 W Induction Cooktop with automatic voltage regulator |Indian Menu option|Power Saver|Timer with User Pre-Set| Black       ",
+    "mainimg": "https://m.media-amazon.com/images/I/61Vu80YcolL._SX679_.jpg",
+    "dis": "93%",
+    "total": "₹2,999",
+    "disprice": "₹419",
+    "slide": [
+      "https://m.media-amazon.com/images/I/61Vu80YcolL._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/81uk2K736TL._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/81J+A2goM+L._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/81l60lHvBYL._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/81OhlSqgLjL._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/81unm0d-vXL._SL1500_.jpg"
+    ],
+    "trending": true,
+    "reviews": [
+      {
+        "rating": 5,
+        "title": "Excellent Pressure Handi",
+        "text": "Heats evenly and cooks food perfectly. Very happy with this purchase.",
+        "buyerName": "Aditya Sharma",
+        "verified": true,
+        "location": "Bangalore",
+        "daysAgo": "1 day ago",
+        "images": [
+          "https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg"
+        ]
+      },
+      {
+        "rating": 4,
+        "title": "Highly Recommended",
+        "text": "Strong and durable. Very convenient for daily cooking.",
+        "buyerName": "Mihir Kapoor",
+        "verified": true,
+        "location": "Chennai",
+        "daysAgo": "2 days ago",
+        "images": [
+          "https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg"
+        ]
+      },
+      {
+        "rating": 5,
+        "title": "Very Efficient",
+        "text": "cooking perfectly. Saves time and energy.",
+        "buyerName": "Riddhi Deshmukh",
+        "verified": true,
+        "location": "Pune",
+        "daysAgo": "1 day ago",
+        "images": [
+          "https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg"
+        ]
+      },
+      {
+        "rating": 5,
+        "title": "Sturdy & Reliable",
+        "text": "High-quality build and easy to clean. Great addition to my kitchen.",
+        "buyerName": "Ananya Singh",
+        "verified": true,
+        "location": "Amritsar",
+        "daysAgo": "2 days ago",
+        "images": [
+          "https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg"
+        ]
+      },
+      {
+        "rating": 4,
+        "title": "Best Buy",
+        "text": "Affordable and efficient. Works exactly as described.",
+        "buyerName": "Subham Rathi",
+        "verified": true,
+        "location": "Jamnagar",
+        "daysAgo": "1 day ago",
+        "images": [
+          "https://m.media-amazon.com/images/I/713Kl1I0CyL._SL1500_.jpg"
+        ]
+      }
+    ]
+  },
   {
     "id": "30",
     "name": "BAJAJ Military 1000 W Mixer Grinder  (Evoque 4 Jar 1000W Jet Black Mixer Grinder | 4 Jars | Black & Copper)k",
