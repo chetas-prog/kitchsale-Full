@@ -14,12 +14,6 @@
       "enabled": true
     },
     
-     {
-      "paymentName": "Google Pay",
-      "link": "tez://upi/pay?pa=cc.9170488083108160@axisbank&pn=Merchant&cu=INR",
-      "upiimg": "/img/gpay.jpg",
-      "enabled": true
-    },
 
     {
       "paymentName": "Paytm",
